@@ -1,1 +1,1 @@
-# Augmented-Dicket-Fuller-Test(Time Series)
+# Augmented-Dickey-Fuller-Test(Time Series)
